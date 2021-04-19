@@ -1,0 +1,12 @@
+/* Importando estilos de core*/
+@import url(reset.css);
+@import url(estilo.css);
+@import url(layout-textos.css);
+    
+/* Importando estilos de componentes*/
+@import url(../Component/header.css);
+@import url(../Component/sidebar.css);
+    
+/* Importando estilos de páginas*/
+@import url(../pages/pagina-inicial.css);
+
